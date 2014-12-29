@@ -1,0 +1,6 @@
+puts "Please enter a year"
+year=gets.chomp
+if(year%400==0)
+	puts #{year} is a leap Year"
+end
+
