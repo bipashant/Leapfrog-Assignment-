@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @deer.name %>
+</p>
+
+<p>
+  <strong>Age:</strong>
+  <%= @deer.age %>
+</p>
+
+<%= link_to 'Edit', edit_deer_path(@deer) %> |
+<%= link_to 'Back', deers_path %>
