@@ -1,0 +1,49 @@
+﻿/* File Created: January 5, 2015 */
+.main-wrapper {
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 40px;
+    background-color: #63ae63;
+}
+.maindiv {
+    height: 240px;
+    width: 241px;
+    padding: 2px;
+    margin: 0 auto;
+    background-color: #006400;
+
+}
+.small_div {
+    height: 50px;
+    width: 50px;
+    padding: 0px;
+    margin: 5px;
+    background-color: #9acd32;
+    display: inline-block;
+    float: left;
+      cursor: pointer;
+
+
+}
+.btn_Suffle {
+ height: 50px;
+    width: 150px;
+    padding: 0px;
+    margin: 25px 0 25px 125px;
+    background-color: #9acd32;
+    display: inline-block;
+    cursor: pointer;
+    border: double #023E54 thick;
+
+
+}
+#box16 {
+         background-color: white;
+}
+p {
+
+    text-align: center;
+    font: 20px sans-serif;
+
+}
